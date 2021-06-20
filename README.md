@@ -1,2 +1,3 @@
-# kickstarter-analysis
-kickstarter-analysis for theather play
+# An Analysis of Kickstarter Campaigns.
+
+
